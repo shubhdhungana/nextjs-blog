@@ -7,7 +7,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Subh Dhungana';
-export const siteTitle = 'Next.js  Website';
+export const siteTitle = 'Subh Dhungana Portfolio Blog';
 
 export default function Layout({ children, home }) {
   return (
